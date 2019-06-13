@@ -4,6 +4,9 @@ pandas
 matplotlib
 jupyter
 ipython
+setuptools
+git+https://github.com/nestauk/data_getters.git
+
 
 # local package
 -e .
