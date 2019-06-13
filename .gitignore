@@ -78,6 +78,7 @@ target/
 # exclude data/interim from source control by default
 /data/
 /reports/figures
+/models
 
 # Mac OS-specific storage files
 .DS_Store
